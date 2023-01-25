@@ -1,18 +1,17 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
+layout: post
 
 # The title of the tag's page.
-title: Test
-
+title: Bio-AI
 sidebar: true
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: test
+slug: bio-ai
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is first created list data
+  This is Bio-AI convergense section
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
